@@ -1,0 +1,16 @@
+# Pitches tracker — paste one entry per line after you send outreach.
+# Format:  source_page_url | your_replacement_url
+# Lines starting with # are ignored.
+#
+# ─────────────────────────────────────────────────────────────────
+# HOW TO USE:
+#   1. Run main.py to find broken links on target sites.
+#   2. Contact the site owner manually with a personalised pitch.
+#   3. Add the entry below (source page | your URL you suggested).
+#   4. Run verify.py a few weeks later to check if they accepted it.
+# ─────────────────────────────────────────────────────────────────
+
+# Example entries (replace with real ones from your outreach):
+# https://example-law-blog.com/resources          | https://american-counsel.com/medical-malpractice-lawyer-guide/
+# https://lawschool.edu/library/research-guides   | https://american-counsel.com/best-personal-injury-lawyer-for-spinal/
+# https://statebar.org/public-resources           | https://american-counsel.com/personal-injury-lawyer-near-me-expert-legal-help/

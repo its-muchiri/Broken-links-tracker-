@@ -1,0 +1,9 @@
+{
+  "crawl_depth": 1,
+  "crawl_delay": 2.5,
+  "max_pages_per_domain": 50,
+  "request_timeout": 10,
+  "retry_delay": 5.0,
+  "user_agent": "BrokenLinkFinder/1.0 (+https://github.com/yourname/broken-link-finder; contact: your@email.com)",
+  "output_dir": "output"
+}

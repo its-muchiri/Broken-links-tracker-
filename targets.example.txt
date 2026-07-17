@@ -1,0 +1,7 @@
+# Target websites to crawl for broken links.
+# One URL per line. Lines starting with # are ignored.
+# These should be sites in your niche that link to external resources.
+#
+# Example (replace with your actual targets):
+https://example-blog.com/resources
+https://example-directory.com/links

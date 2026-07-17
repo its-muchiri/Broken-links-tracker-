@@ -1,0 +1,250 @@
+# Keywords describing american-counsel.com content.
+# Broken links whose anchor text or surrounding paragraph contain these
+# words score higher in the report — those are your best pitch targets.
+
+# ── Brain & Neurological Injuries ────────────────────────────────
+traumatic brain injury
+TBI
+anoxic brain injury
+post concussion syndrome
+severe concussion
+
+# ── Spinal & Paralysis ───────────────────────────────────────────
+spinal cord injury
+paralysis
+quadriplegia
+paraplegia
+nerve damage
+complex regional pain syndrome
+CRPS
+
+# ── Orthopaedic & Musculoskeletal ────────────────────────────────
+back injury
+herniated disc
+neck injury
+whiplash
+broken bones
+compound fracture
+pelvic fracture
+knee injury
+ACL tear
+rotator cuff tear
+shoulder injury
+crush injuries
+amputation
+loss of limb
+
+# ── Burns, Scarring & Internal ───────────────────────────────────
+burn injuries
+chemical burns
+electrical burns
+scarring
+disfigurement
+internal bleeding
+organ damage
+
+# ── Sensory & Vision ─────────────────────────────────────────────
+loss of vision
+hearing loss
+
+# ── Animal Injuries ──────────────────────────────────────────────
+dog bite
+dog bite injuries
+animal attack
+
+# ── Birth & Pediatric ────────────────────────────────────────────
+birth injury
+cerebral palsy
+Erb's palsy
+
+# ── Medical Malpractice ──────────────────────────────────────────
+medical malpractice
+surgical errors
+anesthesia errors
+misdiagnosis
+failure to diagnose
+delayed diagnosis
+medication error
+nursing home abuse
+misdiagnosis of cancer
+
+# ── Personal Injury — Accident Types ────────────────────────────
+personal injury
+personal injury lawyer
+car accident
+truck accident
+motorcycle accident
+slip and fall
+workplace accident
+aviation accident
+helicopter crash
+commercial airline accident
+boating accident
+maritime injury
+premises liability
+product liability
+defective products
+defective drugs
+defective medical devices
+construction accident
+recreational accident
+train accident
+amusement park accident
+food poisoning
+chemical exposure
+hazardous substances
+drone accident
+
+# ── Insurance Claims ─────────────────────────────────────────────
+denied insurance claim
+bad faith insurance
+homeowners insurance claim denied
+health insurance claim denied
+life insurance claim denied
+disability insurance
+long-term disability
+ERISA
+denied LTD claim
+business interruption insurance
+commercial property insurance
+flood insurance
+hail damage claim
+roof damage claim
+water damage claim
+mold claim
+theft claim
+
+# ── Immigration ──────────────────────────────────────────────────
+immigration lawyer
+green card
+adjustment of status
+H-1B visa
+L-1 visa
+O-1 visa
+O-2 visa
+K-1 visa
+E-2 visa
+asylum
+deportation defense
+naturalization
+citizenship
+dual citizenship
+family-based immigration
+immigration bond
+
+# ── Business & Corporate ─────────────────────────────────────────
+business lawyer
+LLC formation
+business contract
+breach of contract
+fiduciary duty
+business formation
+business dissolution
+business partnership dispute
+corporate litigation
+franchise agreement
+business purchase agreement
+commercial lease
+small business lawyer
+
+# ── Entertainment & Sports Law ───────────────────────────────────
+entertainment lawyer
+music lawyer
+film lawyer
+sports lawyer
+360 deal
+NIL athlete
+esports lawyer
+copyright
+copyright infringement
+music licensing
+music contract
+music publishing
+music sampling
+book publishing contract
+brand deal contract
+athlete contract
+
+# ── Maritime & Aviation ──────────────────────────────────────────
+maritime lawyer
+admiralty law
+Jones Act
+longshoreman injury
+maritime lien
+maritime contract
+cruise ship injury
+cruise ship medical malpractice
+yacht accident
+cargo damage
+NTSB investigation
+international plane crash
+
+# ── Military Law ─────────────────────────────────────────────────
+military lawyer
+JAG
+court martial
+military discharge
+discharge upgrade
+military divorce
+military medical malpractice
+BCMR
+military admin separation
+security clearance denied
+
+# ── Disability & Social Security ─────────────────────────────────
+disability lawyer
+SSDI
+social security disability
+long-term care insurance
+disability hearing
+
+# ── Civil Rights & Consumer ──────────────────────────────────────
+civil rights lawyer
+police brutality
+discrimination
+consumer fraud
+consumer protection
+FDCPA
+FCRA
+credit report error
+debt collection
+identity theft
+cyberbullying
+
+# ── Tax & Finance ────────────────────────────────────────────────
+tax lawyer
+IRS audit
+offer in compromise
+expatriate tax
+securities fraud
+investment fraud
+wage garnishment
+bankruptcy
+Chapter 7
+Chapter 13
+
+# ── Intellectual Property ────────────────────────────────────────
+intellectual property
+patent attorney
+trademark
+copyright registration
+licensing agreement
+IP litigation
+
+# ── Specialty & Other ────────────────────────────────────────────
+legal malpractice
+class action lawsuit
+mass tort
+civil litigation
+real estate lawyer
+landlord tenant
+lemon law
+wrongful death
+non-profit lawyer
+school law
+IEP
+special education
+healthcare lawyer
+mediation
+international law
+cross-border litigation

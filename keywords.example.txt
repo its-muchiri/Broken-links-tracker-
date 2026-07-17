@@ -1,0 +1,681 @@
+# Topic keywords describing your content.
+# One keyword/phrase per line. Lines starting with # are ignored.
+# Results whose anchor text or surrounding context contain these words
+# will be scored higher — they are your best replacement candidates.
+#
+# Example (replace with your actual topics):
+													
+1. hire flat fee uncontested divorce attorney alabama													
+													
+2. hire flat fee uncontested divorce attorney alaska													
+													
+3. hire flat fee uncontested divorce attorney arizona													
+													
+4. hire flat fee uncontested divorce attorney arkansas													
+													
+5. hire flat fee uncontested divorce attorney california													
+													
+6. hire flat fee uncontested divorce attorney colorado													
+													
+7. hire flat fee uncontested divorce attorney connecticut													
+													
+8. hire flat fee uncontested divorce attorney delaware													
+													
+9. hire flat fee uncontested divorce attorney florida													
+													
+10. hire flat fee uncontested divorce attorney georgia													
+													
+11. hire flat fee uncontested divorce attorney hawaii													
+													
+12. hire flat fee uncontested divorce attorney idaho													
+													
+13. hire flat fee uncontested divorce attorney illinois													
+													
+14. hire flat fee uncontested divorce attorney indiana													
+													
+15. hire flat fee uncontested divorce attorney iowa													
+													
+16. hire flat fee uncontested divorce attorney kansas													
+													
+17. hire flat fee uncontested divorce attorney kentucky													
+													
+18. hire flat fee uncontested divorce attorney louisiana													
+													
+19. hire flat fee uncontested divorce attorney maine													
+													
+20. hire flat fee uncontested divorce attorney maryland													
+													
+21. hire flat fee uncontested divorce attorney massachusetts													
+													
+22. hire flat fee uncontested divorce attorney michigan													
+													
+23. hire flat fee uncontested divorce attorney minnesota													
+													
+24. hire flat fee uncontested divorce attorney mississippi													
+													
+25. hire flat fee uncontested divorce attorney missouri													
+													
+26. hire flat fee uncontested divorce attorney montana													
+													
+27. hire flat fee uncontested divorce attorney nebraska													
+													
+28. hire flat fee uncontested divorce attorney nevada													
+													
+29. hire flat fee uncontested divorce attorney new hampshire													
+													
+30. hire flat fee uncontested divorce attorney new jersey													
+													
+31. hire flat fee uncontested divorce attorney new mexico													
+													
+32. hire flat fee uncontested divorce attorney new york													
+													
+33. hire flat fee uncontested divorce attorney north carolina													
+													
+34. hire flat fee uncontested divorce attorney north dakota													
+													
+35. hire flat fee uncontested divorce attorney ohio													
+													
+36. hire flat fee uncontested divorce attorney oklahoma													
+													
+37. hire flat fee uncontested divorce attorney oregon													
+													
+38. hire flat fee uncontested divorce attorney pennsylvania													
+													
+39. hire flat fee uncontested divorce attorney rhode island													
+													
+40. hire flat fee uncontested divorce attorney south carolina													
+													
+41. hire flat fee uncontested divorce attorney south dakota													
+													
+42. tennessee hire flat fee uncontested divorce attorney													
+													
+43. texas hire flat fee uncontested divorce attorney													
+													
+44. utah hire flat fee uncontested divorce attorney													
+													
+45. vermont hire flat fee uncontested divorce attorney													
+													
+46. virginia hire flat fee uncontested divorce attorney													
+													
+47. washington hire flat fee uncontested divorce attorney													
+													
+48. west virginia hire flat fee uncontested divorce attorney													
+													
+49. wisconsin hire flat fee uncontested divorce attorney													
+													
+50. wyoming hire flat fee uncontested divorce attorney													
+													
+51. alabama simple divorce lawyer upfront retainer price													
+													
+52. alaska simple divorce lawyer upfront retainer price													
+													
+53. arizona simple divorce lawyer upfront retainer price													
+													
+54. arkansas simple divorce lawyer upfront retainer price													
+													
+55. california simple divorce lawyer upfront retainer price													
+													
+56. colorado simple divorce lawyer upfront retainer price													
+													
+57. connecticut simple divorce lawyer upfront retainer price													
+													
+58. delaware simple divorce lawyer upfront retainer price													
+													
+59. florida simple divorce lawyer upfront retainer price													
+													
+60. georgia simple divorce lawyer upfront retainer price													
+													
+61. hawaii simple divorce lawyer upfront retainer price													
+													
+62. idaho simple divorce lawyer upfront retainer price													
+													
+63. illinois simple divorce lawyer upfront retainer price													
+													
+64. indiana simple divorce lawyer upfront retainer price													
+													
+65. iowa simple divorce lawyer upfront retainer price													
+													
+66. kansas simple divorce lawyer upfront retainer price													
+													
+67. kentucky simple divorce lawyer upfront retainer price													
+													
+68. louisiana simple divorce lawyer upfront retainer price													
+													
+69. maine simple divorce lawyer upfront retainer price													
+													
+70. maryland simple divorce lawyer upfront retainer price													
+													
+71. massachusetts simple divorce lawyer upfront retainer price													
+													
+72. michigan simple divorce lawyer upfront retainer price													
+													
+73. minnesota simple divorce lawyer upfront retainer price													
+													
+74. mississippi simple divorce lawyer upfront retainer price													
+													
+75. missouri simple divorce lawyer upfront retainer price													
+													
+76. montana simple divorce lawyer upfront retainer price													
+													
+77. nebraska simple divorce lawyer upfront retainer price													
+													
+78. nevada simple divorce lawyer upfront retainer price													
+													
+79. new hampshire simple divorce lawyer upfront retainer price													
+													
+80. new jersey simple divorce lawyer upfront retainer price													
+													
+81. new mexico simple divorce lawyer upfront retainer price													
+													
+82. new york simple divorce lawyer upfront retainer price													
+													
+83. north carolina simple divorce lawyer upfront retainer price													
+													
+84. north dakota simple divorce lawyer upfront retainer price													
+													
+85. ohio simple divorce lawyer upfront retainer price													
+													
+86. oklahoma simple divorce lawyer upfront retainer price													
+													
+87. oregon simple divorce lawyer upfront retainer price													
+													
+88. pennsylvania simple divorce lawyer upfront retainer price													
+													
+89. rhode island simple divorce lawyer upfront retainer price													
+													
+90. south carolina simple divorce lawyer upfront retainer price													
+													
+91. south dakota simple divorce lawyer upfront retainer price													
+													
+92. tennessee simple divorce lawyer upfront retainer price													
+													
+93. texas simple divorce lawyer upfront retainer price													
+													
+94. utah simple divorce lawyer upfront retainer price													
+													
+95. vermont simple divorce lawyer upfront retainer price													
+													
+96. virginia simple divorce lawyer upfront retainer price													
+													
+97. washington simple divorce lawyer upfront retainer price													
+													
+98. west virginia simple divorce lawyer upfront retainer price													
+													
+99. wisconsin simple divorce lawyer upfront retainer price													
+													
+100. wyoming simple divorce lawyer upfront retainer price													
+													
+101. alabama paid consultation divorce lawyer ready to hire													
+													
+102. alaska paid consultation divorce lawyer ready to hire													
+													
+103. arizona paid consultation divorce lawyer ready to hire													
+													
+104. arkansas paid consultation divorce lawyer ready to hire													
+													
+105. california paid consultation divorce lawyer ready to hire													
+													
+106. colorado paid consultation divorce lawyer ready to hire													
+													
+107. connecticut paid consultation divorce lawyer ready to hire													
+													
+108. delaware paid consultation divorce lawyer ready to hire													
+													
+109. florida paid consultation divorce lawyer ready to hire													
+													
+110. georgia paid consultation divorce lawyer ready to hire													
+													
+111. hawaii paid consultation divorce lawyer ready to hire													
+													
+112. idaho paid consultation divorce lawyer ready to hire													
+													
+113. illinois paid consultation divorce lawyer ready to hire													
+													
+114. indiana paid consultation divorce lawyer ready to hire													
+													
+115. iowa paid consultation divorce lawyer ready to hire													
+													
+116. kansas paid consultation divorce lawyer ready to hire													
+													
+117. kentucky paid consultation divorce lawyer ready to hire													
+													
+118. louisiana paid consultation divorce lawyer ready to hire													
+													
+119. maine paid consultation divorce lawyer ready to hire													
+													
+120. maryland paid consultation divorce lawyer ready to hire													
+													
+121. massachusetts paid consultation divorce lawyer ready to hire													
+													
+122. michigan paid consultation divorce lawyer ready to hire													
+													
+123. minnesota paid consultation divorce lawyer ready to hire													
+													
+124. mississippi paid consultation divorce lawyer ready to hire													
+													
+125. missouri paid consultation divorce lawyer ready to hire													
+													
+126. montana paid consultation divorce lawyer ready to hire													
+													
+127. nebraska paid consultation divorce lawyer ready to hire													
+													
+128. nevada paid consultation divorce lawyer ready to hire													
+													
+129. new hampshire paid consultation divorce lawyer ready to hire													
+													
+130. new jersey paid consultation divorce lawyer ready to hire													
+													
+131. new mexico paid consultation divorce lawyer ready to hire													
+													
+132. new york paid consultation divorce lawyer ready to hire													
+													
+133. north carolina paid consultation divorce lawyer ready to hire													
+													
+134. north dakota paid consultation divorce lawyer ready to hire													
+													
+135. ohio paid consultation divorce lawyer ready to hire													
+													
+136. oklahoma paid consultation divorce lawyer ready to hire													
+													
+137. oregon paid consultation divorce lawyer ready to hire													
+													
+138. pennsylvania paid consultation divorce lawyer ready to hire													
+													
+139. rhode island paid consultation divorce lawyer ready to hire													
+													
+140. south carolina paid consultation divorce lawyer ready to hire													
+													
+141. south dakota paid consultation divorce lawyer ready to hire													
+													
+142. tennessee paid consultation divorce lawyer ready to hire													
+													
+143. texas paid consultation divorce lawyer ready to hire													
+													
+144. utah paid consultation divorce lawyer ready to hire													
+													
+145. vermont paid consultation divorce lawyer ready to hire													
+													
+146. virginia paid consultation divorce lawyer ready to hire													
+													
+147. washington paid consultation divorce lawyer ready to hire													
+													
+148. west virginia paid consultation divorce lawyer ready to hire													
+													
+149. wisconsin paid consultation divorce lawyer ready to hire													
+													
+150. wyoming paid consultation divorce lawyer ready to hire													
+													
+151. uncontested divorce lawyer upfront quote alabama													
+													
+152. uncontested divorce lawyer upfront quote alaska													
+													
+153. uncontested divorce lawyer upfront quote arizona													
+													
+154. uncontested divorce lawyer upfront quote arkansas													
+													
+155. uncontested divorce lawyer upfront quote california													
+													
+156. uncontested divorce lawyer upfront quote colorado													
+													
+157. uncontested divorce lawyer upfront quote connecticut													
+													
+158. uncontested divorce lawyer upfront quote delaware													
+													
+159. uncontested divorce lawyer upfront quote florida													
+													
+160. uncontested divorce lawyer upfront quote georgia													
+													
+161. uncontested divorce lawyer upfront quote hawaii													
+													
+162. uncontested divorce lawyer upfront quote idaho													
+													
+163. uncontested divorce lawyer upfront quote illinois													
+													
+164. uncontested divorce lawyer upfront quote indiana													
+													
+165. uncontested divorce lawyer upfront quote iowa													
+													
+166. uncontested divorce lawyer upfront quote kansas													
+													
+167. uncontested divorce lawyer upfront quote kentucky													
+													
+168. uncontested divorce lawyer upfront quote louisiana													
+													
+169. uncontested divorce lawyer upfront quote maine													
+													
+170. uncontested divorce lawyer upfront quote maryland													
+													
+171. uncontested divorce lawyer upfront quote massachusetts													
+													
+172. uncontested divorce lawyer upfront quote michigan													
+													
+173. uncontested divorce lawyer upfront quote minnesota													
+													
+174. uncontested divorce lawyer upfront quote mississippi													
+													
+175. uncontested divorce lawyer upfront quote missouri													
+													
+176. uncontested divorce lawyer upfront quote montana													
+													
+177. uncontested divorce lawyer upfront quote nebraska													
+													
+178. uncontested divorce lawyer upfront quote nevada													
+													
+179. uncontested divorce lawyer upfront quote new hampshire													
+													
+180. uncontested divorce lawyer upfront quote new jersey													
+													
+181. uncontested divorce lawyer upfront quote new mexico													
+													
+182. uncontested divorce lawyer upfront quote new york													
+													
+183. uncontested divorce lawyer upfront quote north carolina													
+													
+184. uncontested divorce lawyer upfront quote north dakota													
+													
+185. uncontested divorce lawyer upfront quote ohio													
+													
+186. uncontested divorce lawyer upfront quote oklahoma													
+													
+187. uncontested divorce lawyer upfront quote oregon													
+													
+188. uncontested divorce lawyer upfront quote pennsylvania													
+													
+189. uncontested divorce lawyer upfront quote rhode island													
+													
+190. uncontested divorce lawyer upfront quote south carolina													
+													
+191. uncontested divorce lawyer upfront quote south dakota													
+													
+192. uncontested divorce lawyer upfront quote tennessee													
+													
+193. uncontested divorce lawyer upfront quote texas													
+													
+194. uncontested divorce lawyer upfront quote utah													
+													
+195. uncontested divorce lawyer upfront quote vermont													
+													
+196. uncontested divorce lawyer upfront quote virginia													
+													
+197. uncontested divorce lawyer upfront quote washington													
+													
+198. uncontested divorce lawyer upfront quote west virginia													
+													
+199. uncontested divorce lawyer upfront quote wisconsin													
+													
+200. uncontested divorce lawyer upfront quote wyoming													
+													
+201. immediate hire family law attorney flat fee alabama													
+													
+202. immediate hire family law attorney flat fee alaska													
+													
+203. immediate hire family law attorney flat fee arizona													
+													
+204. immediate hire family law attorney flat fee arkansas													
+													
+205. immediate hire family law attorney flat fee california													
+													
+206. immediate hire family law attorney flat fee colorado													
+													
+207. immediate hire family law attorney flat fee connecticut													
+													
+208. immediate hire family law attorney flat fee delaware													
+													
+209. immediate hire family law attorney flat fee florida													
+													
+210. immediate hire family law attorney flat fee georgia													
+													
+211. immediate hire family law attorney flat fee hawaii													
+													
+212. immediate hire family law attorney flat fee idaho													
+													
+213. immediate hire family law attorney flat fee illinois													
+													
+214. immediate hire family law attorney flat fee indiana													
+													
+215. immediate hire family law attorney flat fee iowa													
+													
+216. immediate hire family law attorney flat fee kansas													
+													
+217. immediate hire family law attorney flat fee kentucky													
+													
+218. immediate hire family law attorney flat fee louisiana													
+													
+219. immediate hire family law attorney flat fee maine													
+													
+220. immediate hire family law attorney flat fee maryland													
+													
+221. immediate hire family law attorney flat fee massachusetts													
+													
+222. immediate hire family law attorney flat fee michigan													
+													
+223. immediate hire family law attorney flat fee minnesota													
+													
+224. immediate hire family law attorney flat fee mississippi													
+													
+225. immediate hire family law attorney flat fee missouri													
+													
+226. immediate hire family law attorney flat fee montana													
+													
+227. immediate hire family law attorney flat fee nebraska													
+													
+228. immediate hire family law attorney flat fee nevada													
+													
+229. immediate hire family law attorney flat fee new hampshire													
+													
+230. immediate hire family law attorney flat fee new jersey													
+													
+231. immediate hire family law attorney flat fee new mexico													
+													
+232. immediate hire family law attorney flat fee new york													
+													
+233. immediate hire family law attorney flat fee north carolina													
+													
+234. immediate hire family law attorney flat fee north dakota													
+													
+235. immediate hire family law attorney flat fee ohio													
+													
+236. immediate hire family law attorney flat fee oklahoma													
+													
+237. immediate hire family law attorney flat fee oregon													
+													
+238. immediate hire family law attorney flat fee pennsylvania													
+													
+239. immediate hire family law attorney flat fee rhode island													
+													
+240. immediate hire family law attorney flat fee south carolina													
+													
+241. immediate hire family law attorney flat fee south dakota													
+													
+242. immediate hire family law attorney flat fee tennessee													
+													
+243. immediate hire family law attorney flat fee texas													
+													
+244. immediate hire family law attorney flat fee utah													
+													
+245. immediate hire family law attorney flat fee vermont													
+													
+246. immediate hire family law attorney flat fee virginia													
+													
+247. immediate hire family law attorney flat fee washington													
+													
+248. immediate hire family law attorney flat fee west virginia													
+													
+249. immediate hire family law attorney flat fee wisconsin													
+													
+250. immediate hire family law attorney flat fee wyoming													
+													
+251. fixed price attorney to draft divorce settlement alabama													
+													
+252. fixed price attorney to draft divorce settlement alaska													
+													
+253. fixed price attorney to draft divorce settlement arizona													
+													
+254. fixed price attorney to draft divorce settlement arkansas													
+													
+255. fixed price attorney to draft divorce settlement california													
+													
+256. fixed price attorney to draft divorce settlement colorado													
+													
+257. fixed price attorney to draft divorce settlement connecticut													
+													
+258. fixed price attorney to draft divorce settlement delaware													
+													
+259. fixed price attorney to draft divorce settlement florida													
+													
+260. fixed price attorney to draft divorce settlement georgia													
+													
+261. fixed price attorney to draft divorce settlement hawaii													
+													
+262. fixed price attorney to draft divorce settlement idaho													
+													
+263. fixed price attorney to draft divorce settlement illinois													
+													
+264. fixed price attorney to draft divorce settlement indiana													
+													
+265. fixed price attorney to draft divorce settlement iowa													
+													
+266. fixed price attorney to draft divorce settlement kansas													
+													
+267. fixed price attorney to draft divorce settlement kentucky													
+													
+268. fixed price attorney to draft divorce settlement louisiana													
+													
+269. fixed price attorney to draft divorce settlement maine													
+													
+270. fixed price attorney to draft divorce settlement maryland													
+													
+271. fixed price attorney to draft divorce settlement massachusetts													
+													
+272. fixed price attorney to draft divorce settlement michigan													
+													
+273. fixed price attorney to draft divorce settlement minnesota													
+													
+274. fixed price attorney to draft divorce settlement mississippi													
+													
+275. fixed price attorney to draft divorce settlement missouri													
+													
+276. fixed price attorney to draft divorce settlement montana													
+													
+277. fixed price attorney to draft divorce settlement nebraska													
+													
+278. fixed price attorney to draft divorce settlement nevada													
+													
+279. fixed price attorney to draft divorce settlement new hampshire													
+													
+280. fixed price attorney to draft divorce settlement new jersey													
+													
+281. fixed price attorney to draft divorce settlement new mexico													
+													
+282. fixed price attorney to draft divorce settlement new york													
+													
+283. fixed price attorney to draft divorce settlement north carolina													
+													
+284. fixed price attorney to draft divorce settlement north dakota													
+													
+285. fixed price attorney to draft divorce settlement ohio													
+													
+286. fixed price attorney to draft divorce settlement oklahoma													
+													
+287. fixed price attorney to draft divorce settlement oregon													
+													
+288. fixed price attorney to draft divorce settlement pennsylvania													
+													
+289. fixed price attorney to draft divorce settlement rhode island													
+													
+290. fixed price attorney to draft divorce settlement south carolina													
+													
+291. fixed price attorney to draft divorce settlement south dakota													
+													
+292. fixed price attorney to draft divorce settlement tennessee													
+													
+293. fixed price attorney to draft divorce settlement texas													
+													
+294. fixed price attorney to draft divorce settlement utah													
+													
+295. fixed price attorney to draft divorce settlement vermont													
+													
+296. fixed price attorney to draft divorce settlement virginia													
+													
+297. fixed price attorney to draft divorce settlement washington													
+													
+298. fixed price attorney to draft divorce settlement west virginia													
+													
+299. fixed price attorney to draft divorce settlement wisconsin													
+													
+300. fixed price attorney to draft divorce settlement wyoming													
+													
+301. best low conflict divorce lawyer accept credit card retainer													
+													
+302. hire local non contested dissolution attorney immediately													
+													
+303. ready to hire family lawyer for agreed separation decree													
+													
+304. flat rate marital property settlement lawyer quotes online													
+													
+305. quick turnaround uncontested divorce law firm upfront fee													
+													
+306. sign retainer today for uncontested marital dissolution													
+													
+													
+													
+Category 2: Ready-to-Buy Contested Divorce Queries (307–612)													
+													
+Intent: High-value leads in active disputes looking for aggressive representation, high-net-worth protection, and ready to put down a significant litigation retainer.													
+													
+307. retain aggressive contested divorce lawyer alabama													
+													
+308. retain aggressive contested divorce lawyer alaska													
+													
+309. retain aggressive contested divorce lawyer arizona													
+													
+310. retain aggressive contested divorce lawyer arkansas													
+													
+311. retain aggressive contested divorce lawyer california													
+													
+312. retain aggressive contested divorce lawyer colorado													
+													
+313. retain aggressive contested divorce lawyer connecticut													
+													
+314. retain aggressive contested divorce lawyer delaware													
+													
+315. retain aggressive contested divorce lawyer florida													
+													
+316. retain aggressive contested divorce lawyer georgia													
+													
+317. retain aggressive contested divorce lawyer hawaii													
+													
+318. retain aggressive contested divorce lawyer idaho													
+													
+319. retain aggressive contested divorce lawyer illinois													
+													
+320. retain aggressive contested divorce lawyer indiana													
+													
+321. retain aggressive contested divorce lawyer iowa													
+													
+322. retain aggressive contested divorce lawyer kansas													
+													
+323. retain aggressive contested divorce lawyer kentucky													
+													
+324. retain aggressive contested divorce lawyer louisiana													
+													
+325. retain aggressive contested divorce lawyer maine													
+													
+326. retain aggressive contested divorce lawyer maryland													
+													
+327. retain aggressive contested divorce lawyer massachusetts													
+													
+328. retain aggressive contested divorce lawyer michigan													
+													
+329. retain aggressive contested divorce lawyer minnesota													
+													
+330. retain aggressive contested divorce lawyer mississippi													
+													
+331. retain aggressive contested divorce lawyer missouri													
+													
+332. retain aggressive contested divorce lawyer montana													
+													
+333. retain aggressive contested divorce lawyer nebraska													
+													
+334. retain aggressive contested divorce lawyer nevada													
+													

@@ -1,0 +1,53 @@
+# ─────────────────────────────────────────────────────────────────
+# Broken Link Finder — Target URLs (American Law)
+# These pages contain many outbound links and are prime candidates
+# for finding dead resources you can offer to replace.
+# ─────────────────────────────────────────────────────────────────
+
+# ── Legal Research & Reference Hubs ──────────────────────────────
+# High link density — often link to law reviews, statutes, agencies
+https://www.law.cornell.edu/wex
+https://www.justia.com/lawyers/resources
+https://www.findlaw.com/learn/
+
+# ── American Bar Association ─────────────────────────────────────
+# Resource & public-education pages; lots of external citations
+https://www.americanbar.org/groups/public_education/resources/
+https://www.americanbar.org/resources/
+
+# ── Self-Help Legal Sites ─────────────────────────────────────────
+# Nolo and similar sites link heavily to court forms, agencies, guides
+https://www.nolo.com/legal-encyclopedia/
+https://www.lawhelp.org/
+
+# ── Law School Library Research Guides ───────────────────────────
+# LibGuide-style pages are goldmines — curated external link lists
+# that are rarely audited for dead URLs
+https://guides.ll.georgetown.edu/
+https://library.law.yale.edu/research
+https://guides.library.harvard.edu/law
+https://library.law.columbia.edu/
+
+# ── State Bar Association Resource Pages ─────────────────────────
+# State bars maintain "public resources" pages with many external links
+https://www.calbar.ca.gov/Public/Need-Legal-Help
+https://www.texasbar.com/Content/NavigationMenu/PublicMedia/PublicResources/
+https://www.floridabar.org/public/
+https://www.dcbar.org/for-the-public/
+
+# ── Legal Aid & Access-to-Justice Sites ──────────────────────────
+# Non-profit legal aid orgs frequently link to forms, courts, agencies
+https://www.lawhelpcalifornia.org/
+https://www.lawhelp.org/find-help/
+https://www.lsc.gov/what-legal-aid/find-legal-aid
+
+# ── Federal & Court Resource Pages ───────────────────────────────
+# Government sites that maintain lists of external legal resources
+https://www.uscourts.gov/statistics-reports/publications/guide-judiciary-policy
+https://www.justice.gov/resources
+
+# ── Legal Blogs & News with Resource Sections ────────────────────
+# Blawgs often maintain "blogrolls" or "useful links" pages
+https://abovethelaw.com/resources/
+https://www.law360.com/
+https://www.legaltechnews.com/
